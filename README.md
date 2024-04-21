@@ -19,18 +19,19 @@
       
 To use the Web App, follow the below steps:
 A. Go to terminal with the project directory and type 
-  ''' 
+  ```
   cd frontend 
   npm start
-  '''
+ ```
 
   [Starts User interaction based components]
   
 B. Open another terminal with the project directory and type 
-    ''' 
+   ```
   cd backend 
   npm start
-    ''' 
+```
+    
   
   [Starts MongoDB service]
 
