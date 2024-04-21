@@ -1,6 +1,7 @@
 # CMS
 - This repository contains files for a College/School Management System based on MERN stack
-- This web application can perform many tasks such as:
+- Features provided by roles.
+  
     Admin:
     -  Create/Delete Classes.
     -  Create/Delete Subjects.
